@@ -24,7 +24,7 @@ SECRET_KEY = '*^i6%fojh7qgm413b_4zi_&+y+e^o%j=04v^w&a&-opagyf+me'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ztyreg.pythonanywhere.com']
+ALLOWED_HOSTS = ['www.tzheng.org']
 
 # Application definition
 
